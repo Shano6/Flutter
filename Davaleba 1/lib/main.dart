@@ -34,7 +34,7 @@ class _ImgState extends State<Img> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: const Text('Animal Images'),
+          title: const Text('Animals'),
         ),
         body: Center(
           child: Column(
